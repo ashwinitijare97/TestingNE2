@@ -5,5 +5,7 @@ public class A {
 		
 		System.out.println("Hello cjc");
 	}
-
+public void m1()
+{
+	System.out.println("M1");
 }
